@@ -1,5 +1,6 @@
 # **ft_IRC**
-
+![Licence](https://img.shields.io/badge/License-MIT-blue.svg)
+![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff&style=flat-square)
 ## **Navigation Table:**
 
 1. [What is IRC protocole.](#what-is-irc-protocole)
